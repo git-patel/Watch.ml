@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+}
+#home{
+    align-content: space-between;
+    justify-content: space-around;
+     align-items: center;
+     border: solid black 2px;
+     height: 556px;
+}
+#navbar{
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: center;
+}
+#service{
+    border: solid rgb(132, 0, 255) 2px;
+    height: 1551px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+}
+.our-service{
+    border:red solid 5px;
+    font-size: 2.9em;
+    color:maroon;
+   
+    /* margin-top: 21px; */
+    /* right: 0px; */
+    /* top: 12px; */
+    /* position: relative; */
+    
+}
